@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNotepad</string>
+    <string name="add_note">&#xe60d;</string>
+    <string name="search_note">&#xeb86; </string>
+    <string name="sort_note">&#xe620;</string>
+    <string name="settings">&#xe64b;</string>
+    <string name="help">&#xe623;</string>
+    <string name="edit_note">&#xe600;</string>
+</resources>

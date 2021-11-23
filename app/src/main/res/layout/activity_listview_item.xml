@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
+    android:layout_width="1000px"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    >
+
+<!--    第一行-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        >
+        <!--  编辑图标      -->
+        <TextView
+            android:id="@+id/edit_note"
+            android:layout_width="150px"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/edit_note"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            >
+        </TextView>
+        <!--    title    -->
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="sakjgg"
+            android:textSize="34sp">
+        </TextView>
+
+    </LinearLayout>
+
+<!--    第二行-->
+    <TextView
+        android:id="@+id/createTime"
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:textAlignment="viewEnd"
+        android:gravity="center"
+        android:text="sakihgk"
+        tools:ignore="RtlCompat"
+        android:textSize="25sp"
+        >
+
+    </TextView>
+</LinearLayout>

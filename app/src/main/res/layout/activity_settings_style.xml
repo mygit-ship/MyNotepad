@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:background="#000000"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        android:text="settingBackground"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="35sp">
+    </TextView>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="240px"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/backgroundColor0"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#ffffff"
+            android:layout_marginRight="10px">
+        </TextView>
+        <TextView
+            android:id="@+id/backgroundColor1"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#FFF68F"
+            android:layout_marginRight="10px">
+        </TextView>
+        <TextView
+            android:id="@+id/backgroundColor2"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#ffe7ba"
+            android:layout_marginRight="10px">
+        </TextView>
+        <TextView
+            android:id="@+id/backgroundColor3"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#FFC0CB"
+            android:layout_marginRight="10px">
+        </TextView>
+        <TextView
+            android:id="@+id/backgroundColor4"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#FFF0F5"
+            android:layout_marginRight="10px">
+        </TextView>
+        <TextView
+            android:id="@+id/backgroundColor5"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#FFE1FF"
+            android:layout_marginRight="10px">
+        </TextView>
+        <TextView
+            android:id="@+id/backgroundColor6"
+            android:layout_width="150px"
+            android:layout_height="180px"
+            android:background="#CAE1FF"
+            android:layout_marginRight="10px">
+        </TextView>
+
+    </LinearLayout>
+
+</LinearLayout>

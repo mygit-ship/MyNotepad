@@ -3,7 +3,7 @@
 ### 功能主要完成了以下内容：添加笔记、修改笔记、搜索笔记、删除笔记、笔记排序sort、设置背景颜色、显示笔记添加时间戳等功能
 #### 
 #### 1、添加笔记
-##### ![index页面](https://github.com/mygit-ship/MyNotepad/blob/master/images/index.png)
+##### ![index页面]()
 #### 修改笔记
 #### 搜索笔记
 #### 删除笔记

@@ -52,4 +52,13 @@
 #####   (4)点击标题降序后的index页面：
 #####     ![sortnote的标题降序页面](images/sort/sortnotedown.png)
 #####   sort功能展示完毕
-#### 设置背景颜色
+#### 5、设置背景颜色
+#####   （1）此时的index页面为：
+#####   ![changebackground的index页面](images/changeBackground/sbackgroundindex.png)
+#####   （2）点击图片中标出的settings按钮，弹出设置背景dialog框：
+#####   ![changebackground的设置背景框](images/changeBackground/dialog.png)
+#####   （3）选择黄色后：
+#####   ![changebackground的设置颜色一](images/changeBackground/firstColor.png)
+#####   （4）选择第四个颜色后：
+#####    ![changebackground的设置颜色二](images/changeBackground/secondColor.png)
+#####    设置背景颜色功能展示完毕

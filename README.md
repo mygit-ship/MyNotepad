@@ -2,11 +2,30 @@
 ## 本次mynotepad项目编码全是由自己编写，包括框架的搭建功能的实现，并没有使用到老师给到的框架
 ### 功能主要完成了以下内容：添加笔记、修改笔记、搜索笔记、删除笔记、笔记排序sort、设置背景颜色、显示笔记添加时间戳等功能
 #### 运行SqliteTest文件，模拟器运行程序，登录后的首页面为：
-![index页面](images/index.png)
+##### ![index页面](images/index.png)
 #### 1、添加笔记
-
-#### 修改笔记
-#### 搜索笔记
+##### (1)点击模拟器中的Add Note:![点击addnote页面](images/addnote/clickAddNote.png)
+#####     此时则会跳出编辑页面，编辑你要新建的笔记标题和内容，我们分别进行输入：
+#####     ![编辑addnote页面](images/addnote/editAddNote.png)
+##### （2）点击右上角的添加后，则跳回index页面，同时新建的笔记本已经出现：
+#####     ![保存addnote页面](images/addnote/saveAddNote.png)
+##### （3）直接单击新建的这个笔记，查看是否为刚刚输入的内容：
+#####     ![确认添加的addnote页面](images/addnote/confirmAddnote.png)
+##### （4）addnote展示完毕
+#### 2、修改笔记
+#####  （1）此时index页面为，单击第一个（标题为：初始使用的title）笔记本进入编辑页面:
+#####     ![editnote的index页面](images/editnote/editnoteIndex.png)
+#####   (2)该笔记本的编辑页面初始为：editnotebegin.png
+#####     ![editnote的笔记的初始页面](images/editnote/editnotebegin.png)
+#####  （3）编辑该笔记后：
+#####     ![editnote的笔记编辑后的页面](images/editnote/editnoteafter.png)
+#####  （4）点击保存后页面自动跳回index页面，可以看到此时第一个笔记的标题已经变成我们编辑过的了（可以看到此时的时间戳已经改变）：
+#####     ![editnote的笔记编辑后确认的页面](images/editnote/confirmeditnote.png)
+#####  （5）编辑功能展示完毕
+#### 3、搜索笔记
+#####  （1）由于此时只有3个笔记，我们再分别加入3个笔记用于“搜索笔记功能的展示”
+#####     标题分别为：‘aaaa’,'abcd','bbb'
+#####     此时
 #### 删除笔记
 #### 笔记排序sort
 #### 设置背景颜色

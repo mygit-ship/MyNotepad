@@ -43,4 +43,13 @@
 #####     ![deletenote的删二index页面](images/deletenote/deletesecond.png)
 #####    删除功能展示完毕
 #### 4、笔记排序sort
+#####   （1）此时的index页面为：
+#####     ![sortnote的index页面](images/sort/sortnoteindex.png)
+#####   (2)点击上方的sort按钮，弹出选择sort的警示框：
+#####     ![sortnote的警示框页面](images/sort/sortnotedialog.png)
+#####   (3)点击标题升序后的index页面：
+#####     ![sortnote的标题升序页面](images/sort/sortnoteup.png)
+#####   (4)点击标题降序后的index页面：
+#####     ![sortnote的标题降序页面](images/sort/sortnotedown.png)
+#####   sort功能展示完毕
 #### 设置背景颜色
